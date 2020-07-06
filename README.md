@@ -6,5 +6,5 @@ SDL extension is required for video output, and keypad input
 
 aplay is used for audio. this can be replaced with some other external player or system beep function.
 
-[![Watch the video](https://imgur.com/YfLnVh1.png)](https://imgur.com/YfLnVh1.gifv)
+<a href="https://imgur.com/YfLnVh1.gifv"><img src="https://imgur.com/tOoJOA7.png"></a>
 
